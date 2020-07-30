@@ -1,0 +1,40 @@
+/*Row 1 Start*/
+/*Nav Start*/
+
+.navData{
+    background-color: #59253A !important;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.txtColor{
+    color: #fff !important;
+}
+
+/*Nav End*/
+
+/*login.php Start*/
+.row2Heading{
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 
+}
+
+.txtColor1{
+    color: #59253A !important;
+}
+/*login.php End*/
+
+/*Footer Start*/
+.foo{
+    background-color: #59253A !important;
+    font-family: 'Handlee', cursive;
+    letter-spacing: 1px;
+}
+
+#adminArea{
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Footer End*/
